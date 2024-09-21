@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(85570) : îøèáêà 021: èäåíòèôèêàòîð "pc_cmd_dv" óæå îáúÿâëåí
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(93128) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(93135) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(567) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "InstaTD"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(302) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "RentMotors"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(13948) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ShowProgressbar"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(566) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "VehPanelTD"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(2971) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "clothesShopSkins"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(781) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "gstream"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(283) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "pAntiCheatLastCodeTriggerTime"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Îøèáîê:1.

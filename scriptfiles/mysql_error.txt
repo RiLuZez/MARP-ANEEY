@@ -1,0 +1,67 @@
+```[2024-09-20 13:31]
+Error ID: 1064
+Callback: OnPlayerUseCarValley
+Query: SELECT id FROM vehicles WHERE ownerid = 1699 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+``````[2024-09-20 14:34]
+Error ID: 1264
+Callback: 
+Query: UPDATE users SET camera_x = '2011.183', camera_y = '2607.501', camera_z = '11.743', pos_x = '2010.095', pos_y = '2604.236', pos_z = '10.82', pos_a = '340.481', interior = 200, world = 0, health = '50.0', armor = '0.0', minutes = 22, warnings = 0, injured = 0, hospital = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 1050
+[!] Out of range value for column 'interior' at row 1
+
+``````[2024-09-20 17:43]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1732 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+``````[2024-09-20 19:32]
+Error ID: 1054
+Callback: 
+Query: UPDATE users SET candy = 11 WHERE uid = 986
+[!] Unknown column 'candy' in 'field list'
+
+``````[2024-09-20 19:32]
+Error ID: 1054
+Callback: 
+Query: UPDATE users SET candy = 15 WHERE uid = 1611
+[!] Unknown column 'candy' in 'field list'
+
+``````[2024-09-20 23:01]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1732 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+``````[2024-09-21 06:34]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1721 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+``````[2024-09-21 11:26]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1732 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+``````[2024-09-21 16:52]
+Error ID: 1054
+Callback: 
+Query: UPDATE gangs SET seeds = 175 WHERE id = 1
+[!] Unknown column 'seeds' in 'field list'
+
+``````[2024-09-21 16:53]
+Error ID: 1054
+Callback: 
+Query: UPDATE gangs SET ephedrine = 7 WHERE id = 1
+[!] Unknown column 'ephedrine' in 'field list'
+
+``````[2024-09-21 18:38]
+Error ID: 1064
+Callback: OnPlayerUseCarStorage
+Query: SELECT id FROM vehicles WHERE ownerid = 1141 LIMIT -1, 1
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-1, 1' at line 1
+
+```

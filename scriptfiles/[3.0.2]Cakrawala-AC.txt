@@ -1,0 +1,27 @@
+||------------- PANDUAN CONFIGURASI CAKRAWALA-AC -------------||
+||------------- Anti Cheat Versi: 3.0.2 -------------||
+// Author: Muffin - Management Of Cakrawala-AC
+// Link Saluran / Channel: : https://whatsapp.com/channel/0029VadrP7wEQIai2mGnV71f 
+// true = Active
+// false = Non-Active
+
+Change and Update Logs: 
+1. Fix death and spectating mode airbreak
+Anti_Car_Troll = false
+Anti_Fcrash = true
+Anti_Fake_Kill = true
+Anti_Speed_Cheat = true
+Anti_Spam_Chat = true
+Anti_Spam_Car = true
+Anti_Vpn = false
+Anti_CJAttack = true
+Anti_Particle_Spam = true
+Anti_Weapon_Rocket = true
+Anti_Weapon_Heatseeker = true
+Anti_Weapon_Flame = true
+Anti_Weapon_Minigun = true
+Anti_AirBreak = true
+Anti_Fastwalk = true
+Anti_Kill_Helicopter = true
+Anti_Car_Grabber = false
+Anti_Flood = true
