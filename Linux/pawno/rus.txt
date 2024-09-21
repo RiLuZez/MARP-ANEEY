@@ -1,14 +1,13 @@
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(85570) : îøèáêà 021: èäåíòèôèêàòîð "pc_cmd_dv" óæå îáúÿâëåí
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(93128) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(93135) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(567) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "InstaTD"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(302) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "RentMotors"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(13948) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ShowProgressbar"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(566) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "VehPanelTD"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(2971) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "clothesShopSkins"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(781) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "gstream"
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP LATEST\gamemodes\MARPV3.pwn(283) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "pAntiCheatLastCodeTriggerTime"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(559) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "InstaTD"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(13867) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ShowProgressbar"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(558) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "VehPanelTD"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(2962) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "clothesShopSkins"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(773) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "gstream"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(284) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "pAntiCheatLastCodeTriggerTime"
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
 
-
-Îøèáîê:1.
+Ðàçìåð çàãîëîâêà:	   47720 áàéò
+Ðàçìåð êîäà:		10551444 áàéò
+Ðàçìåð äàííûõ:		15167048 áàéò
+Ðàçìåð ñòýêà\êó÷è:	   32768 áàéò; Ïðèìåðíîå ìàêñ. èñïîëüçîâàíèå=8330 ÿ÷ååê (33320 áàéò)
+Âñåãî òðåáóåòñÿ:	25798980 áàéò
