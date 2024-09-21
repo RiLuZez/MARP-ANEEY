@@ -1,2 +1,11 @@
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(13864) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ShowProgressbar"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(2959) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "clothesShopSkins"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(770) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "gstream"
+C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\MARPV3.pwn(283) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "pAntiCheatLastCodeTriggerTime"
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
 
+Ðàçìåð çàãîëîâêà:	   47548 áàéò
+Ðàçìåð êîäà:		10523708 áàéò
+Ðàçìåð äàííûõ:		13597608 áàéò
+Ðàçìåð ñòýêà\êó÷è:	   32768 áàéò; Ïðèìåðíîå ìàêñ. èñïîëüçîâàíèå=8322 ÿ÷ååê (33288 áàéò)
+Âñåãî òðåáóåòñÿ:	24201632 áàéò
