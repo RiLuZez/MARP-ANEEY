@@ -1,5 +1,0 @@
-C:\Users\ADMIN\Desktop\scripts\on Working script\MARP-ANEEY\gamemodes\mappings.pwn(18520) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
-Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
-
-
-Îøèáîê:1.
