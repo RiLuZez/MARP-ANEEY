@@ -1,28 +1,41 @@
 /*
 ________________________________________________________________________________
+
 						discord-command.inc
 			Command processor for SA-MP Discord Connector
+
+
 @Author			:		Akshay Mohan - https://github.com/AkshayMohan
 @Version        :       v1.0.2
 @Github         :       https://github.com/AkshayMohan/pawn-discord-cmd
+
 Last update: 7th of January, 2021
+
 Changelogs:
+
 v1.0.2 - 7th of January, 2021
 	- Fixed case sensitivity.
+
 v1.0.1 - 6th of January, 2021
 	- Added function DCMD_GetCommandMessageId();
+
 v1.0.0 - 3rd of January, 2021
 	- Initial release.
+
 MIT License
+
 Copyright (c) 2021 Akshay Mohan
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -30,6 +43,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
 native DCC_Message:DCMD_GetCommandMessageId();
 ________________________________________________________________________________    */
 

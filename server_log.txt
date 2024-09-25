@@ -669,3 +669,936 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [18:09:59]   Loading filterscript 'Cakrawala-AC.amx'...
 [18:09:59]   Loaded 2 filterscripts.
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:32:39] password = ""  (string)
+[22:32:39] 
+[22:32:39] Server Plugins
+[22:32:39] --------------
+[22:32:39]  Loading plugin: crashdetect
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: whirlpool.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: pawncmd.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: SKY.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: sscanf.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: streamer.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: mysql_static.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: discord-connector.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: mysql_static.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: endcloud_sampvoice.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: endcloud-samp.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: pawnraknet.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: textdraw-streamer.so
+[22:32:39]   Failed.
+[22:32:39]  Loading plugin: nativechecker.so
+[22:32:39]   Failed.
+[22:32:39]  Loaded 0 plugins.
+
+[22:32:40] 
+[22:32:40] Ban list
+[22:32:40] --------
+[22:32:40]  Loaded: samp.ban
+[22:32:40] 
+[22:32:40] 
+[22:32:40] Filterscripts
+[22:32:40] ---------------
+[22:32:40]   Loading filterscript 'RandomMessage.amx'...
+[22:32:40] <|---------------------------[Loaded]---------------------------|>
+[22:32:40]  | Simple Random Messages System By DONY |
+[22:32:40] <|---------------------------[Loaded]---------------------------|>
+[22:32:40]   Loading filterscript 'overlight.amx'...
+[22:32:40] Failed to load 'filterscripts/overlight.amx.amx' filterscript.
+[22:32:40]   Unable to load filterscript 'overlight.amx'.
+[22:32:40]   Loading filterscript 'Cakrawala-AC.amx'...
+[22:32:40]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:33] password = ""  (string)
+[22:34:33] 
+[22:34:33] Server Plugins
+[22:34:33] --------------
+[22:34:33]  Loading plugin: crashdetect
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: whirlpool
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: pawncmd
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: SKY
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: sscanf
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: streamer
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: discord-connector
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: mysql
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: sampvoice
+[22:34:33] [sv:dbg:network:init] : module initializing...
+[22:34:33] [dbg:raknet:init] : module initializing...
+[22:34:33] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[22:34:33] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:34:33] [dbg:raknet:init] : module initialized
+[22:34:33] [sv:dbg:network:init] : module initialized
+[22:34:33]  -------------------------------------------    
+[22:34:33]    ___                __   __    _              
+[22:34:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:34:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:34:33]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:34:33]                   |_|                           
+[22:34:33]  -------------------------------------------    
+[22:34:33]            SampVoice by MOR loaded              
+[22:34:33]  -------------------------------------------    
+[22:34:33]   Loaded.
+[22:34:33]  Loading plugin: pawnraknet
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: textdraw-streamer
+[22:34:33]   Failed.
+[22:34:33]  Loading plugin: nativechecker
+[22:34:33]   Failed.
+[22:34:33]  Loaded 1 plugins.
+
+[22:34:33] 
+[22:34:33] Ban list
+[22:34:33] --------
+[22:34:33]  Loaded: samp.ban
+[22:34:33] 
+[22:34:33] 
+[22:34:33] Filterscripts
+[22:34:33] ---------------
+[22:34:33]   Loading filterscript 'RandomMessage.amx'...
+[22:34:33] [sv:dbg:main:AmxLoad] : net game pointer (value:0442A2D8) received
+[22:34:33] [sv:dbg:network:bind] : voice server running on port 56934
+[22:34:33] <|---------------------------[Loaded]---------------------------|>
+[22:34:33]  | Simple Random Messages System By DONY |
+[22:34:33] <|---------------------------[Loaded]---------------------------|>
+[22:34:33]   Loading filterscript 'overlight.amx'...
+[22:34:33] Failed to load 'filterscripts/overlight.amx.amx' filterscript.
+[22:34:33]   Unable to load filterscript 'overlight.amx'.
+[22:34:33]   Loading filterscript 'Cakrawala-AC.amx'...
+[22:34:33] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[22:34:33]   Loaded 2 filterscripts.
+
+[22:34:33] [sv:dbg:main:AmxLoad] : failed to bind voice server
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:45] password = ""  (string)
+[22:34:45] 
+[22:34:45] Server Plugins
+[22:34:45] --------------
+[22:34:45]  Loading plugin: crashdetect
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: whirlpool
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: pawncmd
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: SKY
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: sscanf
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: streamer
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: discord-connector
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: mysql
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: sampvoice
+[22:34:45] [sv:dbg:network:init] : module initializing...
+[22:34:45] [dbg:raknet:init] : module initializing...
+[22:34:45] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[22:34:45] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:34:45] [dbg:raknet:init] : module initialized
+[22:34:45] [sv:dbg:network:init] : module initialized
+[22:34:45]  -------------------------------------------    
+[22:34:45]    ___                __   __    _              
+[22:34:45]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:34:45]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:34:45]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:34:45]                   |_|                           
+[22:34:45]  -------------------------------------------    
+[22:34:45]            SampVoice by MOR loaded              
+[22:34:45]  -------------------------------------------    
+[22:34:45]   Loaded.
+[22:34:45]  Loading plugin: pawnraknet
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: textdraw-streamer
+[22:34:45]   Failed.
+[22:34:45]  Loading plugin: nativechecker
+[22:34:45]   Failed.
+[22:34:45]  Loaded 1 plugins.
+
+[22:34:46] 
+[22:34:46] Ban list
+[22:34:46] --------
+[22:34:46]  Loaded: samp.ban
+[22:34:46] 
+[22:34:46] 
+[22:34:46] Filterscripts
+[22:34:46] ---------------
+[22:34:46]   Loading filterscript 'RandomMessage.amx'...
+[22:34:46] [sv:dbg:main:AmxLoad] : net game pointer (value:0442A2D8) received
+[22:34:46] [sv:dbg:network:bind] : voice server running on port 56936
+[22:34:46] <|---------------------------[Loaded]---------------------------|>
+[22:34:46]  | Simple Random Messages System By DONY |
+[22:34:46] <|---------------------------[Loaded]---------------------------|>
+[22:34:46]   Loading filterscript 'overlight.amx'...
+[22:34:46] Failed to load 'filterscripts/overlight.amx.amx' filterscript.
+[22:34:46]   Unable to load filterscript 'overlight.amx'.
+[22:34:46]   Loading filterscript 'Cakrawala-AC.amx'...
+[22:34:46] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[22:34:46]   Loaded 2 filterscripts.
+
+[22:34:46] [sv:dbg:main:AmxLoad] : failed to bind voice server
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:38:48] password = ""  (string)
+[22:38:48] 
+[22:38:48] Server Plugins
+[22:38:48] --------------
+[22:38:48]  Loading plugin: crashdetect
+[22:38:48]   CrashDetect v4.18.1 is OK.
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: whirlpool
+[22:38:48]  
+[22:38:48]  ==================
+[22:38:48]  
+[22:38:48]   Whirlpool loaded
+[22:38:48]  
+[22:38:48]  ==================
+[22:38:48]  
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: pawncmd
+[22:38:48] [Pawn.CMD] plugin v3.4.0 loading...
+[22:38:48] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: SKY
+[22:38:48] 
+[22:38:48]  ===============================
+[22:38:48]    
+[22:38:48]    < SKY - 2.3.0 >
+[22:38:48]    
+[22:38:48]    (c) 2008 - Present | YSF Maintainers
+[22:38:48]    (c) 2015 | Oscar "Slice" Broman
+[22:38:48]    
+[22:38:48]    Server Version: 0.3.7 R2
+[22:38:48]    Operating System: Windows
+[22:38:48]    Built on: Sep 27 2021 at 23:19:52
+[22:38:48]    
+[22:38:48]  ===============================
+[22:38:48] 
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: sscanf
+[22:38:48] 
+
+[22:38:48]  ===============================
+
+[22:38:48]       sscanf plugin loaded.     
+
+[22:38:48]          Version:  2.8.3        
+
+[22:38:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:38:48]  ===============================
+
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: streamer
+[22:38:48] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: discord-connector
+[22:38:48]   Failed.
+[22:38:48]  Loading plugin: mysql
+[22:38:48]   Failed.
+[22:38:48]  Loading plugin: sampvoice
+[22:38:48] [sv:dbg:network:init] : module initializing...
+[22:38:48] [dbg:raknet:init] : module initializing...
+[22:38:48] [dbg:raknet:init] : module initialized
+[22:38:48] [sv:dbg:network:init] : module initialized
+[22:38:48] [sv:dbg:main:Load] : creating 4 work threads...
+[22:38:48]  -------------------------------------------    
+[22:38:48]    ___                __   __    _              
+[22:38:48]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:38:48]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:38:48]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:38:48]                   |_|                           
+[22:38:48]  -------------------------------------------    
+[22:38:48]            SampVoice by MOR loaded              
+[22:38:48]  -------------------------------------------    
+[22:38:48]   Loaded.
+[22:38:48]  Loading plugin: pawnraknet
+[22:38:48]   Failed.
+[22:38:48]  Loading plugin: textdraw-streamer
+[22:38:48] 
+[22:38:48]  =================================
+[22:38:48]  |                               |
+[22:38:48]  |    textdraw-streamer v2.0.3   |
+[22:38:48]  |            Loaded             |
+[22:38:48]  |                               |
+[22:38:48]  |  Coding:                      |
+[22:38:48]  |                               |
+[22:38:48]  |  Burak (Nexor)                |
+[22:38:49]  |                               |
+[22:38:49]  |  Compiled:                    |
+[22:38:49]  |                               |
+[22:38:49]  |  29.09.2023, 16:49:07         |
+[22:38:49]  |                               |
+[22:38:49]  |  Github:                      |
+[22:38:49]  |                               |
+[22:38:49]  |  github.com/nexquery          |
+[22:38:49]  |                               |
+[22:38:49]  |  Discord:                     |
+[22:38:49]  |                               |
+[22:38:49]  |  benburakya - Nexor#4730      |
+[22:38:49]  |                               |
+[22:38:49]  =================================
+[22:38:49] 
+[22:38:49]   Loaded.
+[22:38:49]  Loading plugin: nativechecker
+[22:38:49]   Loaded.
+[22:38:49]  Loaded 9 plugins.
+
+[22:38:49] 
+[22:38:49] Ban list
+[22:38:49] --------
+[22:38:50]  Loaded: samp.ban
+[22:38:50] 
+[22:38:50] 
+[22:38:50] Filterscripts
+[22:38:50] ---------------
+[22:38:50]   Loading filterscript 'RandomMessage.amx'...
+[22:38:50] AMX (83597680) loaded
+[22:38:50] [sv:dbg:main:AmxLoad] : net game pointer (value:0450A2D8) received
+[22:38:50] [sv:dbg:network:bind] : voice server running on port 51460
+[22:38:50] <|---------------------------[Loaded]---------------------------|>
+[22:38:50]  | Simple Random Messages System By DONY |
+[22:38:50] <|---------------------------[Loaded]---------------------------|>
+[22:38:50]   Loading filterscript 'overlight.amx'...
+[22:38:50] Failed to load 'filterscripts/overlight.amx.amx' filterscript.
+[22:38:50]   Unable to load filterscript 'overlight.amx'.
+[22:38:50]   Loading filterscript 'Cakrawala-AC.amx'...
+[22:38:50] AMX (83311416) loaded
+[22:38:50] >> Filterscript Cakrawala-AC Loaded <<
+[22:38:50]    D  | Author : Muffin's
+[22:38:50]    E  | Version :3.0.2 Experience
+[22:38:50]    F  | Link Channel :https://whatsapp.com/channel/0029VadrP7wEQIai2mGnV71f
+[22:38:50] ----------------------------------------------------------------------------
+[22:38:50]   Loaded 2 filterscripts.
+
+[22:38:51] AMX (83388432) loaded
+[22:38:51] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.4.0) and include (0.1.64) versions
+[22:38:51] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:38:51]    Error: Function not registered: 'PC_Init'
+[22:38:51]    Error: Function not registered: 'DCC_GetMessageChannel'
+[22:38:51]    Error: Function not registered: 'DCC_GetMessageAuthor'
+[22:38:51]    Error: Function not registered: 'DCC_IsUserBot'
+[22:38:51]    Error: Function not registered: 'DCC_GetMessageContent'
+[22:38:51]    Error: Function not registered: 'DCC_FindChannelById'
+[22:38:51]    Error: Function not registered: 'mysql_tquery'
+[22:38:51]    Error: Function not registered: 'DCC_SetBotActivity'
+[22:38:51]    Error: Function not registered: 'cache_get_data'
+[22:38:51]    Error: Function not registered: 'cache_get_field_content'
+[22:38:51]    Error: Function not registered: 'cache_get_field_content_int'
+[22:38:51]    Error: Function not registered: 'cache_get_field_content_float'
+[22:38:51]    Error: Function not registered: 'cache_get_row_count'
+[22:38:51]    Error: Function not registered: 'mysql_format'
+[22:38:51]    Error: Function not registered: 'cache_insert_id'
+[22:38:51]    Error: Function not registered: 'DCC_SendChannelMessage'
+[22:38:51]    Error: Function not registered: 'PTextSetString'
+[22:38:51]    Error: Function not registered: 'PTextHide'
+[22:38:51]    Error: Function not registered: 'PTextShow'
+[22:38:51]    Error: Function not registered: 'mysql_escape_string'
+[22:38:51]    Error: Function not registered: 'PTextSize'
+[22:38:51]    Error: Function not registered: 'DestroyPTextdraw'
+[22:38:51]    Error: Function not registered: 'CreatePTextdraw'
+[22:38:51]    Error: Function not registered: 'PTextFont'
+[22:38:51]    Error: Function not registered: 'PTextLetterSize'
+[22:38:51]    Error: Function not registered: 'PTextColor'
+[22:38:51]    Error: Function not registered: 'PTextUseBox'
+[22:38:51]    Error: Function not registered: 'PTextBoxColor'
+[22:38:51]    Error: Function not registered: 'PTextPreviewModel'
+[22:38:51]    Error: Function not registered: 'mysql_unprocessed_queries'
+[22:38:51]    Error: Function not registered: 'cache_get_row_int'
+[22:38:51]    Error: Function not registered: 'cache_get_row'
+[22:38:51]    Error: Function not registered: 'mysql_connect'
+[22:38:51]    Error: Function not registered: 'mysql_errno'
+[22:38:51]    Error: Function not registered: 'mysql_close'
+[22:38:51]    Error: Function not registered: 'PTextOutline'
+[22:38:51]    Error: Function not registered: 'PTextShadow'
+[22:38:51]    Error: Function not registered: 'PTextAlignment'
+[22:38:51]    Error: Function not registered: 'PTextBGColor'
+[22:38:51]    Error: Function not registered: 'PTextProportional'
+[22:38:51]    Error: Function not registered: 'PTextSelectable'
+[22:38:51]    Error: Function not registered: 'PTextPreviewRot'
+[22:38:51]    Error: Function not registered: 'PTextPreviewVehCol'
+[22:38:51]    Error: Function not registered: 'DCC_CreateEmbed'
+[22:38:51]    Error: Function not registered: 'DCC_SetEmbedTitle'
+[22:38:51]    Error: Function not registered: 'DCC_SetEmbedDescription'
+[22:38:51]    Error: Function not registered: 'DCC_SetEmbedColor'
+[22:38:51]    Error: Function not registered: 'DCC_SetEmbedFooter'
+[22:38:51]    Error: Function not registered: 'DCC_SendChannelEmbedMessage'
+[22:38:51]    Error: Function not registered: 'mysql_query'
+[22:38:51]    Error: Function not registered: 'cache_delete'
+[22:38:51]    Error: Function not registered: 'DCC_GetUserName'
+[22:38:51]    Error: Function not registered: 'DCC_FindUserById'
+[22:38:51]    Error: Function not registered: 'DCC_GetUserDiscriminator'
+[22:38:51] [debug] Run time error 19: "File or function is not found"
+[22:38:51] [debug]  PC_Init
+[22:38:51] [debug]  DCC_GetMessageChannel
+[22:38:51] [debug]  DCC_GetMessageAuthor
+[22:38:51] [debug]  DCC_IsUserBot
+[22:38:51] [debug]  DCC_GetMessageContent
+[22:38:51] [debug]  DCC_FindChannelById
+[22:38:51] [debug]  mysql_tquery
+[22:38:51] [debug]  DCC_SetBotActivity
+[22:38:51] [debug]  cache_get_data
+[22:38:51] [debug]  cache_get_field_content
+[22:38:51] [debug]  cache_get_field_content_int
+[22:38:51] [debug]  cache_get_field_content_float
+[22:38:51] [debug]  cache_get_row_count
+[22:38:51] [debug]  mysql_format
+[22:38:51] [debug]  cache_insert_id
+[22:38:51] [debug]  DCC_SendChannelMessage
+[22:38:51] [debug]  PTextSetString
+[22:38:51] [debug]  PTextHide
+[22:38:51] [debug]  PTextShow
+[22:38:51] [debug]  mysql_escape_string
+[22:38:51] [debug]  PTextSize
+[22:38:51] [debug]  DestroyPTextdraw
+[22:38:51] [debug]  CreatePTextdraw
+[22:38:51] [debug]  PTextFont
+[22:38:51] [debug]  PTextLetterSize
+[22:38:51] [debug]  PTextColor
+[22:38:51] [debug]  PTextUseBox
+[22:38:51] [debug]  PTextBoxColor
+[22:38:51] [debug]  PTextPreviewModel
+[22:38:51] [debug]  mysql_unprocessed_queries
+[22:38:51] [debug]  cache_get_row_int
+[22:38:51] [debug]  cache_get_row
+[22:38:51] [debug]  mysql_connect
+[22:38:51] [debug]  mysql_errno
+[22:38:51] [debug]  mysql_close
+[22:38:51] [debug]  PTextOutline
+[22:38:51] [debug]  PTextShadow
+[22:38:51] [debug]  PTextAlignment
+[22:38:51] [debug]  PTextBGColor
+[22:38:51] [debug]  PTextProportional
+[22:38:51] [debug]  PTextSelectable
+[22:38:51] [debug]  PTextPreviewRot
+[22:38:51] [debug]  PTextPreviewVehCol
+[22:38:51] [debug]  DCC_CreateEmbed
+[22:38:51] [debug]  DCC_SetEmbedTitle
+[22:38:51] [debug]  DCC_SetEmbedDescription
+[22:38:51] [debug]  DCC_SetEmbedColor
+[22:38:51] [debug]  DCC_SetEmbedFooter
+[22:38:51] [debug]  DCC_SendChannelEmbedMessage
+[22:38:51] [debug]  mysql_query
+[22:38:51] [debug]  cache_delete
+[22:38:51] [debug]  DCC_GetUserName
+[22:38:51] [debug]  DCC_FindUserById
+[22:38:51] [debug]  DCC_GetUserDiscriminator
+[22:38:51] [debug] Server crashed due to an unknown error
+[22:38:51] [debug] Native backtrace:
+[22:38:51] [debug] #0 00401696 in ?? () from samp-server.exe
+[22:38:51] [debug] #1 6ec526d7 in ?? () from plugins\textdraw-streamer.DLL
+[22:38:51] [debug] #2 0046ad78 in ?? () from samp-server.exe
+[22:38:51] [debug] #3 65646f6d in ?? () from samp-server.exe
+[22:38:51] [debug] #4 414d2f73 in ?? () from samp-server.exe
+[22:38:51] [debug] #5 33565052 in ?? () from samp-server.exe
+[22:38:51] [debug] #6 786d612e in ?? () from samp-server.exe
+[22:38:51] [debug] Registers:
+[22:38:51] [debug] EAX: 04f7e1a8 EBX: 004b5b68 ECX: 00000000 EDX: 0019fd53
+[22:38:51] [debug] ESI: 04f7e1a8 EDI: 0019fddc EBP: 33565052 ESP: 00515c0c
+[22:38:51] [debug] EIP: 786d612e EFLAGS: 00010212
+[22:38:51] [debug] Stack:
+[22:38:51] [debug] ESP+00000000: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000020: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000040: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000060: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000080: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+000000a0: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+000000c0: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+000000e0: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000120: 00000000 00000000 00000121 00000000
+[22:38:51] [debug] ESP+00000140: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000160: 000023f0 00000602 00000006 00000002
+[22:38:51] [debug] ESP+00000180: 04501950 00000000 00000000 00516028
+[22:38:51] [debug] ESP+000001a0: 00000000 00000000 00000000 ffffffff
+[22:38:51] [debug] ESP+000001c0: 00000fa0 ffffffff ffffffff 00000000
+[22:38:51] [debug] ESP+000001e0: ffffffff 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000200: 00000000 00000000 00000fa0 ffffffff
+[22:38:51] [debug] ESP+00000220: 00000fa0 ffffffff ffffffff 00000000
+[22:38:51] [debug] ESP+00000240: ffffffff 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000260: 00000000 00000000 00000fa0 ffffffff
+[22:38:51] [debug] ESP+00000280: 00000fa0 ffffffff ffffffff 00000000
+[22:38:51] [debug] ESP+000002a0: ffffffff 00000000 00000000 00000000
+[22:38:51] [debug] ESP+000002c0: 00000000 00000000 00000fa0 ffffffff
+[22:38:51] [debug] ESP+000002e0: 00000fa0 ffffffff ffffffff 00000000
+[22:38:51] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000320: 76ed1480 76ed22f0 00000000 00000000
+[22:38:51] [debug] ESP+00000340: 00200061 00740053 006e0061 00610064
+[22:38:51] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+00000380: 00000000 00000000 00000000 006e0049
+[22:38:51] [debug] ESP+000003a0: 00670069 00740068 00540020 006d0069
+[22:38:51] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[22:38:51] [debug] ESP+000003e0: 00000001 00000000 00000001 00000000
+[22:38:51] [debug] Loaded modules:
+[22:38:51] [debug] 00400000 - 0051e000 samp-server.exe
+[22:38:51] [debug] 77190000 - 77334000 ntdll.dll
+[22:38:51] [debug] 76eb0000 - 76fa0000 KERNEL32.DLL
+[22:38:51] [debug] 75420000 - 7565f000 KERNELBASE.dll
+[22:38:51] [debug] 75660000 - 75c3a000 SHELL32.dll
+[22:38:51] [debug] 75180000 - 751fb000 msvcp_win.dll
+[22:38:51] [debug] 763d0000 - 764f0000 ucrtbase.dll
+[22:38:51] [debug] 76100000 - 7629d000 USER32.dll
+[22:38:51] [debug] 75010000 - 75028000 win32u.dll
+[22:38:51] [debug] 75260000 - 75283000 GDI32.dll
+[22:38:51] [debug] 76d00000 - 76de6000 gdi32full.dll
+[22:38:51] [debug] 73090000 - 730b8000 WINMM.dll
+[22:38:51] [debug] 730c0000 - 730c8000 WSOCK32.dll
+[22:38:51] [debug] 76df0000 - 76eaf000 msvcrt.dll
+[22:38:51] [debug] 76b80000 - 76be3000 WS2_32.dll
+[22:38:51] [debug] 75030000 - 750ec000 RPCRT4.dll
+[22:38:51] [debug] 75150000 - 75175000 IMM32.DLL
+[22:38:51] [debug] 74d90000 - 74dbe000 d3dgearload.dll
+[22:38:51] [debug] 76330000 - 763ad000 ADVAPI32.dll
+[22:38:51] [debug] 762b0000 - 76328000 sechost.dll
+[22:38:51] [debug] 763b0000 - 763c9000 bcrypt.dll
+[22:38:51] [debug] 6edb0000 - 6ee00000 crashdetect.DLL
+[22:38:51] [debug] 71db0000 - 71e19000 MSVCP100.dll
+[22:38:51] [debug] 71cf0000 - 71daf000 MSVCR100.dll
+[22:38:51] [debug] 6eda0000 - 6edac000 whirlpool.DLL
+[22:38:51] [debug] 709d0000 - 709e5000 VCRUNTIME140.dll
+[22:38:51] [debug] 6e710000 - 6e799000 pawncmd.DLL
+[22:38:51] [debug] 6ee30000 - 6eead000 SKY.DLL
+[22:38:51] [debug] 10000000 - 1000e000 sscanf.DLL
+[22:38:51] [debug] 6ecb0000 - 6ed16000 streamer.DLL
+[22:38:51] [debug] 709f0000 - 70a5d000 MSVCP140.dll
+[22:38:51] [debug] 6ec80000 - 6ecab000 sampvoice.DLL
+[22:38:51] [debug] 74c30000 - 74c3f000 kernel.appcore.dll
+[22:38:51] [debug] 6ec40000 - 6ec71000 textdraw-streamer.DLL
+[22:38:51] [debug] 6ec30000 - 6ec35000 nativechecker.DLL
+[22:38:51] [debug] 72f90000 - 72fe2000 mswsock.dll
+[22:38:51] [debug] 72f70000 - 72f81000 napinsp.dll
+[22:38:51] [debug] 72f50000 - 72f66000 pnrpnsp.dll
+[22:38:51] [debug] 72f40000 - 72f50000 wshbth.dll
+[22:38:51] [debug] 72f20000 - 72f36000 NLAapi.dll
+[22:38:51] [debug] 72ee0000 - 72f12000 IPHLPAPI.DLL
+[22:38:51] [debug] 72e50000 - 72ee0000 DNSAPI.dll
+[22:38:51] [debug] 76b70000 - 76b77000 NSI.dll
+[22:38:51] [debug] 72e40000 - 72e4e000 winrnr.dll
+[22:38:51] [debug] 72de0000 - 72e38000 fwpuclnt.dll
+[22:38:51] [debug] 72dd0000 - 72dd8000 rasadhlp.dll
+[22:38:51] [debug] 750f0000 - 7514f000 bcryptPrimitives.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:41:27] password = ""  (string)
+[22:41:27] 
+[22:41:27] Server Plugins
+[22:41:27] --------------
+[22:41:27]  Loading plugin: crashdetect
+[22:41:27]   CrashDetect v4.18.1 is OK.
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: whirlpool
+[22:41:27]  
+[22:41:27]  ==================
+[22:41:27]  
+[22:41:27]   Whirlpool loaded
+[22:41:27]  
+[22:41:27]  ==================
+[22:41:27]  
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: pawncmd
+[22:41:27] [Pawn.CMD] plugin v3.4.0 loading...
+[22:41:27] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: SKY
+[22:41:27] 
+[22:41:27]  ===============================
+[22:41:27]    
+[22:41:27]    < SKY - 2.3.0 >
+[22:41:27]    
+[22:41:27]    (c) 2008 - Present | YSF Maintainers
+[22:41:27]    (c) 2015 | Oscar "Slice" Broman
+[22:41:27]    
+[22:41:27]    Server Version: 0.3.7 R2
+[22:41:27]    Operating System: Windows
+[22:41:27]    Built on: Sep 27 2021 at 23:19:52
+[22:41:27]    
+[22:41:27]  ===============================
+[22:41:27] 
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: sscanf
+[22:41:27] 
+
+[22:41:27]  ===============================
+
+[22:41:27]       sscanf plugin loaded.     
+
+[22:41:27]          Version:  2.8.3        
+
+[22:41:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:41:27]  ===============================
+
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: streamer
+[22:41:27] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:41:27]   Loaded.
+[22:41:27]  Loading plugin: discord-connector
+[22:41:27]   Failed.
+[22:41:27]  Loading plugin: mysql
+[22:41:27]   Failed.
+[22:41:27]  Loading plugin: sampvoice
+[22:41:27] [sv:dbg:network:init] : module initializing...
+[22:41:27] [dbg:raknet:init] : module initializing...
+[22:41:27] [dbg:raknet:init] : module initialized
+[22:41:27] [sv:dbg:network:init] : module initialized
+[22:41:27] [sv:dbg:main:Load] : creating 4 work threads...
+[22:41:27]  -------------------------------------------    
+[22:41:27]    ___                __   __    _              
+[22:41:27]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:41:27]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:41:28]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:41:28]                   |_|                           
+[22:41:28]  -------------------------------------------    
+[22:41:28]            SampVoice by MOR loaded              
+[22:41:28]  -------------------------------------------    
+[22:41:28]   Loaded.
+[22:41:28]  Loading plugin: pawnraknet
+[22:41:28]   Failed.
+[22:41:28]  Loading plugin: textdraw-streamer
+[22:41:28] 
+[22:41:28]  =================================
+[22:41:28]  |                               |
+[22:41:28]  |    textdraw-streamer v2.0.3   |
+[22:41:28]  |            Loaded             |
+[22:41:28]  |                               |
+[22:41:28]  |  Coding:                      |
+[22:41:28]  |                               |
+[22:41:28]  |  Burak (Nexor)                |
+[22:41:28]  |                               |
+[22:41:28]  |  Compiled:                    |
+[22:41:28]  |                               |
+[22:41:28]  |  29.09.2023, 16:49:07         |
+[22:41:28]  |                               |
+[22:41:28]  |  Github:                      |
+[22:41:28]  |                               |
+[22:41:28]  |  github.com/nexquery          |
+[22:41:28]  |                               |
+[22:41:28]  |  Discord:                     |
+[22:41:28]  |                               |
+[22:41:28]  |  benburakya - Nexor#4730      |
+[22:41:28]  |                               |
+[22:41:28]  =================================
+[22:41:28] 
+[22:41:28]   Loaded.
+[22:41:28]  Loading plugin: nativechecker
+[22:41:28]   Loaded.
+[22:41:28]  Loaded 9 plugins.
+
+[22:41:28] 
+[22:41:28] Ban list
+[22:41:28] --------
+[22:41:28]  Loaded: samp.ban
+[22:41:28] 
+[22:41:29] 
+[22:41:29] Filterscripts
+[22:41:29] ---------------
+[22:41:29]   Loading filterscript 'RandomMessage.amx'...
+[22:41:29] AMX (84318576) loaded
+[22:41:29] [sv:dbg:main:AmxLoad] : net game pointer (value:0271A2D8) received
+[22:41:29] [sv:dbg:network:bind] : voice server running on port 51750
+[22:41:29] <|---------------------------[Loaded]---------------------------|>
+[22:41:29]  | Simple Random Messages System By DONY |
+[22:41:29] <|---------------------------[Loaded]---------------------------|>
+[22:41:29]   Loading filterscript 'overlight.amx'...
+[22:41:29] Failed to load 'filterscripts/overlight.amx.amx' filterscript.
+[22:41:29]   Unable to load filterscript 'overlight.amx'.
+[22:41:29]   Loading filterscript 'Cakrawala-AC.amx'...
+[22:41:29] AMX (84032312) loaded
+[22:41:29] >> Filterscript Cakrawala-AC Loaded <<
+[22:41:29]    D  | Author : Muffin's
+[22:41:29]    E  | Version :3.0.2 Experience
+[22:41:29]    F  | Link Channel :https://whatsapp.com/channel/0029VadrP7wEQIai2mGnV71f
+[22:41:29] ----------------------------------------------------------------------------
+[22:41:29]   Loaded 2 filterscripts.
+
+[22:41:29] AMX (84109328) loaded
+[22:41:29] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.4.0) and include (0.1.64) versions
+[22:41:29] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:41:29]    Error: Function not registered: 'PC_Init'
+[22:41:29]    Error: Function not registered: 'DCC_GetMessageChannel'
+[22:41:29]    Error: Function not registered: 'DCC_GetMessageAuthor'
+[22:41:29]    Error: Function not registered: 'DCC_IsUserBot'
+[22:41:29]    Error: Function not registered: 'DCC_GetMessageContent'
+[22:41:29]    Error: Function not registered: 'DCC_FindChannelById'
+[22:41:29]    Error: Function not registered: 'mysql_tquery'
+[22:41:29]    Error: Function not registered: 'DCC_SetBotActivity'
+[22:41:29]    Error: Function not registered: 'cache_get_data'
+[22:41:29]    Error: Function not registered: 'cache_get_field_content'
+[22:41:29]    Error: Function not registered: 'cache_get_field_content_int'
+[22:41:29]    Error: Function not registered: 'cache_get_field_content_float'
+[22:41:29]    Error: Function not registered: 'cache_get_row_count'
+[22:41:29]    Error: Function not registered: 'mysql_format'
+[22:41:29]    Error: Function not registered: 'cache_insert_id'
+[22:41:29]    Error: Function not registered: 'DCC_SendChannelMessage'
+[22:41:29]    Error: Function not registered: 'PTextSetString'
+[22:41:29]    Error: Function not registered: 'PTextHide'
+[22:41:29]    Error: Function not registered: 'PTextShow'
+[22:41:29]    Error: Function not registered: 'mysql_escape_string'
+[22:41:29]    Error: Function not registered: 'PTextSize'
+[22:41:29]    Error: Function not registered: 'DestroyPTextdraw'
+[22:41:29]    Error: Function not registered: 'CreatePTextdraw'
+[22:41:29]    Error: Function not registered: 'PTextFont'
+[22:41:29]    Error: Function not registered: 'PTextLetterSize'
+[22:41:29]    Error: Function not registered: 'PTextColor'
+[22:41:29]    Error: Function not registered: 'PTextUseBox'
+[22:41:29]    Error: Function not registered: 'PTextBoxColor'
+[22:41:29]    Error: Function not registered: 'PTextPreviewModel'
+[22:41:29]    Error: Function not registered: 'mysql_unprocessed_queries'
+[22:41:29]    Error: Function not registered: 'cache_get_row_int'
+[22:41:29]    Error: Function not registered: 'cache_get_row'
+[22:41:29]    Error: Function not registered: 'mysql_connect'
+[22:41:29]    Error: Function not registered: 'mysql_errno'
+[22:41:29]    Error: Function not registered: 'mysql_close'
+[22:41:29]    Error: Function not registered: 'PTextOutline'
+[22:41:29]    Error: Function not registered: 'PTextShadow'
+[22:41:29]    Error: Function not registered: 'PTextAlignment'
+[22:41:29]    Error: Function not registered: 'PTextBGColor'
+[22:41:29]    Error: Function not registered: 'PTextProportional'
+[22:41:29]    Error: Function not registered: 'PTextSelectable'
+[22:41:29]    Error: Function not registered: 'PTextPreviewRot'
+[22:41:29]    Error: Function not registered: 'PTextPreviewVehCol'
+[22:41:29]    Error: Function not registered: 'DCC_CreateEmbed'
+[22:41:29]    Error: Function not registered: 'DCC_SetEmbedTitle'
+[22:41:29]    Error: Function not registered: 'DCC_SetEmbedDescription'
+[22:41:29]    Error: Function not registered: 'DCC_SetEmbedColor'
+[22:41:29]    Error: Function not registered: 'DCC_SetEmbedFooter'
+[22:41:29]    Error: Function not registered: 'DCC_SendChannelEmbedMessage'
+[22:41:29]    Error: Function not registered: 'mysql_query'
+[22:41:29]    Error: Function not registered: 'cache_delete'
+[22:41:29]    Error: Function not registered: 'DCC_GetUserName'
+[22:41:29]    Error: Function not registered: 'DCC_FindUserById'
+[22:41:29]    Error: Function not registered: 'DCC_GetUserDiscriminator'
+[22:41:29] [debug] Run time error 19: "File or function is not found"
+[22:41:29] [debug]  PC_Init
+[22:41:29] [debug]  DCC_GetMessageChannel
+[22:41:29] [debug]  DCC_GetMessageAuthor
+[22:41:29] [debug]  DCC_IsUserBot
+[22:41:29] [debug]  DCC_GetMessageContent
+[22:41:29] [debug]  DCC_FindChannelById
+[22:41:29] [debug]  mysql_tquery
+[22:41:29] [debug]  DCC_SetBotActivity
+[22:41:29] [debug]  cache_get_data
+[22:41:29] [debug]  cache_get_field_content
+[22:41:29] [debug]  cache_get_field_content_int
+[22:41:29] [debug]  cache_get_field_content_float
+[22:41:29] [debug]  cache_get_row_count
+[22:41:29] [debug]  mysql_format
+[22:41:29] [debug]  cache_insert_id
+[22:41:29] [debug]  DCC_SendChannelMessage
+[22:41:29] [debug]  PTextSetString
+[22:41:29] [debug]  PTextHide
+[22:41:29] [debug]  PTextShow
+[22:41:29] [debug]  mysql_escape_string
+[22:41:29] [debug]  PTextSize
+[22:41:29] [debug]  DestroyPTextdraw
+[22:41:29] [debug]  CreatePTextdraw
+[22:41:29] [debug]  PTextFont
+[22:41:29] [debug]  PTextLetterSize
+[22:41:29] [debug]  PTextColor
+[22:41:29] [debug]  PTextUseBox
+[22:41:29] [debug]  PTextBoxColor
+[22:41:29] [debug]  PTextPreviewModel
+[22:41:29] [debug]  mysql_unprocessed_queries
+[22:41:29] [debug]  cache_get_row_int
+[22:41:29] [debug]  cache_get_row
+[22:41:29] [debug]  mysql_connect
+[22:41:29] [debug]  mysql_errno
+[22:41:29] [debug]  mysql_close
+[22:41:29] [debug]  PTextOutline
+[22:41:29] [debug]  PTextShadow
+[22:41:29] [debug]  PTextAlignment
+[22:41:29] [debug]  PTextBGColor
+[22:41:29] [debug]  PTextProportional
+[22:41:29] [debug]  PTextSelectable
+[22:41:29] [debug]  PTextPreviewRot
+[22:41:29] [debug]  PTextPreviewVehCol
+[22:41:29] [debug]  DCC_CreateEmbed
+[22:41:29] [debug]  DCC_SetEmbedTitle
+[22:41:29] [debug]  DCC_SetEmbedDescription
+[22:41:30] [debug]  DCC_SetEmbedColor
+[22:41:30] [debug]  DCC_SetEmbedFooter
+[22:41:30] [debug]  DCC_SendChannelEmbedMessage
+[22:41:30] [debug]  mysql_query
+[22:41:30] [debug]  cache_delete
+[22:41:30] [debug]  DCC_GetUserName
+[22:41:30] [debug]  DCC_FindUserById
+[22:41:30] [debug]  DCC_GetUserDiscriminator
+[22:41:30] [debug] Server crashed due to an unknown error
+[22:41:30] [debug] Native backtrace:
+[22:41:30] [debug] #0 00401696 in ?? () from samp-server.exe
+[22:41:30] [debug] #1 6ee526d7 in ?? () from plugins\textdraw-streamer.DLL
+[22:41:30] [debug] #2 0046ad78 in ?? () from samp-server.exe
+[22:41:30] [debug] #3 65646f6d in ?? () from samp-server.exe
+[22:41:30] [debug] #4 414d2f73 in ?? () from samp-server.exe
+[22:41:30] [debug] #5 33565052 in ?? () from samp-server.exe
+[22:41:30] [debug] #6 786d612e in ?? () from samp-server.exe
+[22:41:30] [debug] Registers:
+[22:41:30] [debug] EAX: 0502e1a8 EBX: 004b5b68 ECX: 00000000 EDX: 0019fd53
+[22:41:30] [debug] ESI: 0502e1a8 EDI: 0019fddc EBP: 33565052 ESP: 00515c0c
+[22:41:30] [debug] EIP: 786d612e EFLAGS: 00010212
+[22:41:30] [debug] Stack:
+[22:41:30] [debug] ESP+00000000: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000020: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000040: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000060: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000080: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+000000a0: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+000000c0: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+000000e0: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000120: 00000000 00000000 00000121 00000000
+[22:41:30] [debug] ESP+00000140: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000160: 000023f0 00000602 00000006 00000002
+[22:41:30] [debug] ESP+00000180: 02711950 00000000 00000000 00516028
+[22:41:30] [debug] ESP+000001a0: 00000000 00000000 00000000 ffffffff
+[22:41:30] [debug] ESP+000001c0: 00000fa0 ffffffff ffffffff 00000000
+[22:41:30] [debug] ESP+000001e0: ffffffff 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000200: 00000000 00000000 00000fa0 ffffffff
+[22:41:30] [debug] ESP+00000220: 00000fa0 ffffffff ffffffff 00000000
+[22:41:30] [debug] ESP+00000240: ffffffff 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000260: 00000000 00000000 00000fa0 ffffffff
+[22:41:30] [debug] ESP+00000280: 00000fa0 ffffffff ffffffff 00000000
+[22:41:30] [debug] ESP+000002a0: ffffffff 00000000 00000000 00000000
+[22:41:30] [debug] ESP+000002c0: 00000000 00000000 00000fa0 ffffffff
+[22:41:30] [debug] ESP+000002e0: 00000fa0 ffffffff ffffffff 00000000
+[22:41:30] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000320: 76ed1480 76ed22f0 00000000 00000000
+[22:41:30] [debug] ESP+00000340: 00200061 00740053 006e0061 00610064
+[22:41:30] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+00000380: 00000000 00000000 00000000 006e0049
+[22:41:30] [debug] ESP+000003a0: 00670069 00740068 00540020 006d0069
+[22:41:30] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[22:41:30] [debug] ESP+000003e0: 00000001 00000000 00000001 00000000
+[22:41:30] [debug] Loaded modules:
+[22:41:30] [debug] 00400000 - 0051e000 samp-server.exe
+[22:41:30] [debug] 77190000 - 77334000 ntdll.dll
+[22:41:30] [debug] 76eb0000 - 76fa0000 KERNEL32.DLL
+[22:41:30] [debug] 75420000 - 7565f000 KERNELBASE.dll
+[22:41:30] [debug] 75660000 - 75c3a000 SHELL32.dll
+[22:41:30] [debug] 75180000 - 751fb000 msvcp_win.dll
+[22:41:30] [debug] 763d0000 - 764f0000 ucrtbase.dll
+[22:41:30] [debug] 76100000 - 7629d000 USER32.dll
+[22:41:30] [debug] 75010000 - 75028000 win32u.dll
+[22:41:30] [debug] 75260000 - 75283000 GDI32.dll
+[22:41:30] [debug] 76d00000 - 76de6000 gdi32full.dll
+[22:41:30] [debug] 73090000 - 730b8000 WINMM.dll
+[22:41:30] [debug] 730c0000 - 730c8000 WSOCK32.dll
+[22:41:30] [debug] 76df0000 - 76eaf000 msvcrt.dll
+[22:41:30] [debug] 76b80000 - 76be3000 ws2_32.DLL
+[22:41:30] [debug] 75030000 - 750ec000 RPCRT4.dll
+[22:41:30] [debug] 75150000 - 75175000 IMM32.DLL
+[22:41:30] [debug] 74d90000 - 74dbe000 d3dgearload.dll
+[22:41:30] [debug] 76330000 - 763ad000 ADVAPI32.dll
+[22:41:30] [debug] 762b0000 - 76328000 sechost.dll
+[22:41:30] [debug] 763b0000 - 763c9000 bcrypt.dll
+[22:41:30] [debug] 6edb0000 - 6ee00000 crashdetect.DLL
+[22:41:30] [debug] 71cf0000 - 71daf000 MSVCR100.dll
+[22:41:30] [debug] 71db0000 - 71e19000 MSVCP100.dll
+[22:41:30] [debug] 6eda0000 - 6edac000 whirlpool.DLL
+[22:41:30] [debug] 709d0000 - 709e5000 VCRUNTIME140.dll
+[22:41:30] [debug] 6ebd0000 - 6ec59000 pawncmd.DLL
+[22:41:30] [debug] 6e690000 - 6e70d000 SKY.DLL
+[22:41:30] [debug] 10000000 - 1000e000 sscanf.DLL
+[22:41:30] [debug] 6eb60000 - 6ebc6000 streamer.DLL
+[22:41:30] [debug] 709f0000 - 70a5d000 MSVCP140.dll
+[22:41:30] [debug] 6ee80000 - 6eeab000 sampvoice.DLL
+[22:41:30] [debug] 74c30000 - 74c3f000 kernel.appcore.dll
+[22:41:30] [debug] 6ee40000 - 6ee71000 textdraw-streamer.DLL
+[22:41:30] [debug] 6ee30000 - 6ee35000 nativechecker.DLL
+[22:41:30] [debug] 72f90000 - 72fe2000 mswsock.dll
+[22:41:30] [debug] 72f70000 - 72f81000 napinsp.dll
+[22:41:30] [debug] 72f50000 - 72f66000 pnrpnsp.dll
+[22:41:30] [debug] 72f40000 - 72f50000 wshbth.dll
+[22:41:30] [debug] 72f20000 - 72f36000 NLAapi.dll
+[22:41:30] [debug] 72ee0000 - 72f12000 IPHLPAPI.DLL
+[22:41:30] [debug] 72e50000 - 72ee0000 DNSAPI.dll
+[22:41:30] [debug] 76b70000 - 76b77000 NSI.dll
+[22:41:30] [debug] 72e40000 - 72e4e000 winrnr.dll
+[22:41:30] [debug] 72de0000 - 72e38000 fwpuclnt.dll
+[22:41:30] [debug] 72dd0000 - 72dd8000 rasadhlp.dll
+[22:41:30] [debug] 750f0000 - 7514f000 bcryptPrimitives.dll
