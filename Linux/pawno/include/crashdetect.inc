@@ -1,43 +1,69 @@
-// Copyright (c) 2013-2014 Zeex
-// All rights reserved.
-//
-// Redistribution and use in source and binary forms, with or without
-// modification, are permitted provided that the following conditions are met:
-//
-// 1. Redistributions of source code must retain the above copyright notice,
-//    this list of conditions and the following disclaimer.
-// 2. Redistributions in binary form must reproduce the above copyright notice,
-//    this list of conditions and the following disclaimer in the documentation
-//    and/or other materials provided with the distribution.
-//
-// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-// AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-// IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-// ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
-// LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-// CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-// SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-// INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-// CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-// POSSIBILITY OF SUCH DAMAGE.
+/*
+Anti fake client by Rogue 2018/3/26
+-=-=-=
+Last updated on Mar 30th.
+=-=-=-=-=-=-=-=
+OnPlayerFakeConnect(playerid);
+-=-=
+playerid = the cheater who connected with a fake client.
+-=-=-=-=-=-=
+*/
 
-#if defined CRASHDETECT_INC
+#if !defined FILTERSCRIPT 
+
+#if defined _rAFC_Included_
 	#endinput
 #endif
-#define CRASHDETECT_INC
 
-native PrintAmxBacktrace();
-native PrintNativeBacktrace();
+#define _rAFC_Included_
+#define AFC_NUMBER 30
 
-native GetAmxBacktrace(string[], size = sizeof(string));
-native GetNativeBacktrace(string[], size = sizeof(string));
+#include <a_samp>
 
-forward OnRuntimeError(code, &bool:suppress);
+#if !defined gpci
+	native gpci(playerid, serial[], len);
+#endif
 
-stock bool:IsCrashDetectPresent() {
-	#emit zero.pri
-	#emit lctrl 0xFF
-	#emit retn
-	return false;
+#if defined AFC_OnPlayerConnect
+	forward AFC_OnPlayerConnect(playerid);
+#endif
+
+#if defined OnPlayerFakeConnect
+	forward OnPlayerFakeConnect(playerid);
+#endif
+
+public OnPlayerConnect(playerid)
+{
+	if(AFC_IsPlayerBot(playerid))
+	{
+		CallLocalFunction("OnPlayerFakeConnect", "i", playerid);
+	}
+
+	#if defined AFC_OnPlayerConnect
+		return AFC_OnPlayerConnect(playerid);
+	#else
+		return 1;
+	#endif
 }
+
+static AFC_IsPlayerBot(playerid)
+{  
+	if(IsPlayerNPC(playerid)) return 0;
+	new TempId[80], TempNumb;  
+	gpci(playerid, TempId, sizeof(TempId));  
+	for(new i = 0; i < strlen(TempId); i++)  
+	{  
+		if(TempId[i] >= '0' && TempId[i] <= '9')  TempNumb++;  
+	}  
+	return (TempNumb >= AFC_NUMBER || strlen(TempId) <= AFC_NUMBER) ? true : false;
+}
+
+#if defined _ALS_OnPlayerConnect
+  #undef OnPlayerConnect
+#else
+	#define _ALS_OnPlayerConnect
+#endif
+
+#define OnPlayerConnect AFC_OnPlayerConnect
+
+#endif
